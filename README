@@ -1,0 +1,29 @@
+
+= passenger-restart
+
+
+== Description
+
+
+== Installation
+
+=== Archive Installation
+
+	rake install
+
+=== Gem Installation
+
+	gem install passengerrestart
+
+
+== Features/Problems
+
+
+== Synopsis
+
+
+== Copyright
+
+Author::    takiuchi <takiuchi@>
+Copyright:: Copyright (c) 2009 takiuchi
+License::   
