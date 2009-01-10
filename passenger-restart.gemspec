@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{passenger-restart}
-  s.version = "0.0.1"
+  s.version = "0.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["takiuchi"]
-  s.date = %q{2009-01-10}
+  s.date = %q{2009-01-11}
   s.default_executable = %q{passenger-restart}
   s.description = %q{Touch tmp/restart.txt}
   s.email = %q{genki@s21g.com}

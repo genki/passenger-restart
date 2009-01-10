@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env ruby
 
-mkdir -p tmp
-touch tmp/restart.txt
+system "mkdir -p tmp"
+system "touch tmp/restart.txt"
